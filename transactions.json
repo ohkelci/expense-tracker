@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "date": "2024-09-05",
+        "institution": "Wells Fargo",
+        "account": "Checking",
+        "merchant": "Amazon",
+        "amount": 150.75,
+        "type": "Expense",
+        "categoryId": 5,
+        "category": "Shopping",
+        "isPending": false,
+        "isTransfer": false,
+        "isExpense": true,
+        "isEdited": false
+    },
+    {
+        "id": 2,
+        "date": "2024-09-04",
+        "institution": "Wells Fargo",
+        "account": "Savings",
+        "merchant": "Target",
+        "amount": 60.45,
+        "type": "Expense",
+        "categoryId": 7,
+        "category": "Groceries",
+        "isPending": true,
+        "isTransfer": false,
+        "isExpense": true,
+        "isEdited": false
+    },
+    {
+        "id": 3,
+        "date": "2024-09-03",
+        "institution": "Wells Fargo",
+        "account": "Checking",
+        "merchant": "PayPal",
+        "amount": 200.0,
+        "type": "Transfer",
+        "categoryId": 3,
+        "category": "Transfers",
+        "isPending": false,
+        "isTransfer": true,
+        "isExpense": false,
+        "isEdited": false
+    },
+    {
+        "id": 4,
+        "date": "2024-09-02",
+        "institution": "Wells Fargo",
+        "account": "Credit Card",
+        "merchant": "Starbucks",
+        "amount": 15.95,
+        "type": "Expense",
+        "categoryId": 10,
+        "category": "Food & Drink",
+        "isPending": false,
+        "isTransfer": false,
+        "isExpense": true,
+        "isEdited": true
+    }
+]
